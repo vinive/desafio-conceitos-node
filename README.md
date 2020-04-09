@@ -9,7 +9,7 @@
 <h4>1. Faça o clone do projeto:</h4>
 
 ```
-  git clone: jdsiajdasjdjsajdisjdisajdsa
+  git clone: https://github.com/vinive/desafio-conceitos-node.git
 ```
 
 <h4>2. Abra a pasta backend e execute o yarn:</h4>
