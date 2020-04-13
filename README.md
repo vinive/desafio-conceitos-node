@@ -15,13 +15,13 @@
 <h4>2. Abra a pasta backend e execute o yarn:</h4>
 
 ```
-  cd nome da pasta
+  cd (nome da pasta)
   
   yarn dev
 ```
 
 
-<h4>2. Para fazer os testes:</h4>
+<h4>3. Para fazer os testes:</h4>
 
 ```  
   yarn test
