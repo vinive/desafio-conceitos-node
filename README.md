@@ -12,7 +12,7 @@
   git clone: https://github.com/vinive/desafio-conceitos-node.git
 ```
 
-<h4>2. Abra a pasta backend e execute o yarn:</h4>
+<h4>2. Abra a pasta e execute o yarn:</h4>
 
 ```
   cd (nome da pasta)
