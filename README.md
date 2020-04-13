@@ -27,5 +27,5 @@
   yarn test
 ```
 
- <img alt="GoStack" src="https://lh3.googleusercontent.com/proxy/tj57t4MNRMZif271zXljxKHUB2DCk69uWHughA1sbsFV8M00X8u1H_DEcisKT2sNJ7DhinsxY4GsUw45iQxxt71IasLa9NM_xj2lC5SC3OEO6j3VDlC-HH-cKaaH" />
+ <img alt="Rocketseat"                   style="widht: 25px;"src="https://lh3.googleusercontent.com/proxy/tj57t4MNRMZif271zXljxKHUB2DCk69uWHughA1sbsFV8M00X8u1H_DEcisKT2sNJ7DhinsxY4GsUw45iQxxt71IasLa9NM_xj2lC5SC3OEO6j3VDlC-HH-cKaaH" />
 
